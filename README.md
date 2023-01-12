@@ -8,7 +8,7 @@
 ![gambar1](screenshot/project_uas.png)
 
 ## Penjelasan Program 1
-
+![file](penjelasan/MVC%20pada%20Python.pdf)
 
 ## Presentasi Program di Youtube
 
