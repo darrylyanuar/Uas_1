@@ -8,7 +8,7 @@
 ![gambar1](screenshot/project_uas.png)
 
 ## Penjelasan Program 1
-![file](penjelasan/MVC_pada_Python.pdf)
+![def](penjelasan/MVC_pada_Python.pdf)
 
 ## Presentasi Program di Youtube
 
@@ -17,3 +17,5 @@
 ### https://github.com/darrylyanuar/Uas_1.git
 
 ## Terimakasih
+
+[def]: penjelasan/MVC_pada_Python.pdf
