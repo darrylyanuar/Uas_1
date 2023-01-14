@@ -1,8 +1,8 @@
 # Model View Controller Pada Python
 
-###             Darryl Yanuar Arrafi
-###                 312210065
-###                   T1.22 C1
+### Darryl Yanuar Arrafi
+### 312210065
+### T1.22 C1
 
 ## Tugas Uas
 ![gambar1](screenshot/project_uas.png)
