@@ -11,10 +11,9 @@
 [MVC_pada_python](penjelasan/MVC_pada_Python.pdf)
 
 ## Presentasi Program di Youtube
+[Video_Youtube]https://www.youtube.com/watch?v=3dC9m7fZ63U
 
 
-## Repository Github link
-### https://github.com/darrylyanuar/Uas_1.git
 
 ## Terimakasih
 
